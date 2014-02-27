@@ -1,39 +1,10 @@
 #Ribo-introduction
 這是一份reveal.js版本的Ribosome Lab公司簡介。  
+整包下載下來之後，開啓index.html即可使用該簡報。
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
--------------------------
   
 
-
+--------------
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
